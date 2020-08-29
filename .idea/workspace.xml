@@ -63,7 +63,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -195,38 +195,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598689110696" />
-    <state width="1860" height="419" key="GridCell.Tab.0.bottom" timestamp="1598690297184">
+    <state width="1860" height="344" key="GridCell.Tab.0.bottom" timestamp="1598690729983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="419" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598690297184" />
-    <state width="1860" height="419" key="GridCell.Tab.0.center" timestamp="1598690297183">
+    <state width="1860" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598690729983" />
+    <state width="1860" height="344" key="GridCell.Tab.0.center" timestamp="1598690729983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="419" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598690297183" />
-    <state width="1860" height="419" key="GridCell.Tab.0.left" timestamp="1598690297183">
+    <state width="1860" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598690729983" />
+    <state width="1860" height="344" key="GridCell.Tab.0.left" timestamp="1598690729982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="419" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598690297183" />
-    <state width="1860" height="419" key="GridCell.Tab.0.right" timestamp="1598690297183">
+    <state width="1860" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598690729982" />
+    <state width="1860" height="344" key="GridCell.Tab.0.right" timestamp="1598690729983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="419" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598690297183" />
-    <state width="930" height="344" key="GridCell.Tab.1.bottom" timestamp="1598689766044">
+    <state width="1860" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598690729983" />
+    <state width="1860" height="344" key="GridCell.Tab.1.bottom" timestamp="1598690729983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598689766044" />
-    <state width="930" height="344" key="GridCell.Tab.1.center" timestamp="1598689766044">
+    <state width="1860" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598690729983" />
+    <state width="1860" height="344" key="GridCell.Tab.1.center" timestamp="1598690729983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598689766044" />
-    <state width="930" height="344" key="GridCell.Tab.1.left" timestamp="1598689766044">
+    <state width="1860" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598690729983" />
+    <state width="1860" height="344" key="GridCell.Tab.1.left" timestamp="1598690729983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598689766044" />
-    <state width="930" height="344" key="GridCell.Tab.1.right" timestamp="1598689766044">
+    <state width="1860" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598690729983" />
+    <state width="1860" height="344" key="GridCell.Tab.1.right" timestamp="1598690729983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598689766044" />
+    <state width="1860" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598690729983" />
     <state x="100" y="100" width="1720" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598689150619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
